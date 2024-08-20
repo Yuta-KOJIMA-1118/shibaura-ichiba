@@ -28,9 +28,11 @@ components : 各コンポーネントを制御するjsファイルが含まれ�
 
 
 # 外部リンク  
-[notion](https://www.notion.so/_root-page-9418dfa95bca453dabec127c4508da76?pvs=4)  
-[GitHub scomb-shibaura-ichiba](https://github.com/AL22090/scomb-shibaura-ichiba.git)  
-[GitHub textbook_scraping](https://github.com/AL22090/textbook_scraping)
+## public
+[GitHub scomb-shibaura-ichiba](https://github.com/Yuta-KOJIMA-1118/scomb-shibaura-ichiba.git)  
+[GitHub textbook_scraping](https://github.com/Yuta-KOJIMA-1118/textbook-scraping)
+## private
+[notion](https://www.notion.so/_root-page-9418dfa95bca453dabec127c4508da76?pvs=4) 
 [googleDrive_要求仕様書](https://drive.google.com/drive/folders/1ZWvDJBzTcUa21DfyPxEyPraTMfR09C7q?usp=drive_link)  
 [googleDrive_外部設計書](https://drive.google.com/drive/folders/1O8eMgV0bmtwfKMiYWlpc1mTvH6Agm0xm?usp=drive_link)  
 [googleDrive_内部仕様書](https://drive.google.com/drive/folders/1-c5IZqpbHbGpLCM_CnZuUVkFjutWIb5U?usp=drive_link)  
