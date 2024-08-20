@@ -1,0 +1,35 @@
+テキスト建築意匠, 居住環境デザイン, 澤田英行
+設計に活かす建築計画, 建築計画基礎, 松下希和
+絵でわかる地図と測量, 応用測量学, 中川雅史
+点群データの取得と処理〜測量・土木の実務者向け入門書〜, 応用測量学, 中川雅史
+都市をつくりかえるしくみ, 環境システム入門, 全教員
+最新建築設備工学　改訂2版, 建築設備学, 増田幸宏
+初めて学ぶ都市計画　第二版, 都市計画基礎, 作山康
+施工がわかるイラスト建築生産入門, 建設プロジェクトマネジメント, 石川裕次
+建築構造設計概論, 建築構造設計, 石川裕次
+都市計画の世界史, 都市及び都市計画史, 田口博之
+建築材料　第2版, 建築材料, 加藤詞史
+システム工学ー問題発見・解決の方法ー, システム工学A, 全教員
+SUCCESSFUL STEPS FOR THE TOEICR L&R TEST 　New Edition, 語学検定対策講座, 小林潤
+500語マスターやさしい中国語, 中国語II, 呉守鋼
+500語マスターやさしい中国語, 中国語I, 呉守鋼
+eco検定公式テキスト　改訂9版, SDGsとサステナビリティ, 袖野玲子
+ピエールとユゴー　コンパクト版, フランス語I, 本間幸代
+身につくドイツ文法<Leicht>2, ドイツ語I, 菅谷優
+新キャンパス独和辞典, ドイツ語I, 菅谷優
+例題で学ぶ微分積分学, 微分積分I, 全教員
+Q: Skills for Success2- Reading and Writing(2nd ed), English Basic Skills I, 全教員
+Get Reading! 大学生のための読解演習と基本文法, English Remedial Course I, 全教員
+Q: Skills for Success 3- Reading and Writing(2nd ed), English Advanced Skills I, 全教員
+Technical English  Level 2 Course Book and eBook　(2nd Edition), English for Science and Technology (Basic Class), 木戸・土井・中村・真保・出淵
+Technical English  Level 3 Course Book and eBook(2nd Edition), English for Science and Technology (Advanced Class), 小抜・オガワ・柳澤・吉村
+Winning Presentation　動画で学ぶ英語プレゼンテーション, 理工系英語プレゼンテーション, 吉村建二郎
+物理学基礎　Web動画付　第5版, 力学I, 浅井和実
+これだけはおさえたい!化学　改訂版　Primary大学テキスト, 化学I, 藤井靖之
+医療と生命, 生命倫理概論, 中川雅博
+共通テスト公共、倫理　集中講義　改訂版　※4/25発売予定　店頭にて販売, 哲学?, 中川雅博
+Advancedベクトル解析, 解析学I, 土屋卓也
+ミクロ経済学の力, 経済学I, 小山友介
+新・社会調査へのアプローチ, 社会ニーズ調査法, 小山友介
+教養の線形代数　6訂版, 線形代数I, 関坂歩幹
+新Aクラス中学代数問題集　6訂版, 数学科指導法1, 高村真彦

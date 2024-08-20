@@ -1,0 +1,56 @@
+services:
+
+  db:
+    build:
+      context: ./db
+    container_name: db
+    environment:
+      TZ: 'Asia/Tokyo'
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+      MYSQL_DATABASE: ${MYSQL_DATABASE}
+      MYSQL_USER: ${MYSQL_USER}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+    ports:
+      - "3306:3306"
+    networks:
+      - shibaura-net
+
+  client:
+    build:
+      context: ./client
+    container_name: client
+    tty: true
+    environment:
+      - NODE_ENV=development
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./client:/app
+      - client_node_modules:/app/node_modules
+    networks:
+      - shibaura-net
+
+  server:
+    build:
+      context: ./server
+    container_name: server
+    ports:
+      - "3000:3000"
+    env_file:
+      - "./.env"
+      - "./server/config/.env"
+    depends_on:
+      - "db"
+    volumes:
+      - ./server:/app
+      - server_node_modules:/app/node_modules
+    networks:
+      - shibaura-net
+
+volumes: 
+  client_node_modules:
+  server_node_modules:
+
+networks:
+  shibaura-net:
+    driver: bridge
