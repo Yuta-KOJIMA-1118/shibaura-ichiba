@@ -3,7 +3,7 @@
 * @description ホームページコンポーネント，このコンポーネントは，App.vueにルーティングされ，最初に表示される．テスト用のコンポーネントのため，実際のアプリケーションでは，このコンポーネントは削除される．
 *
 * @since 2024-06-30
-* author 下地涼太
+* author S.R
 *
 * @modified 2024-07-15 小島佑太 - ActiveListingとPastListingを統合，PurchasePastPageとWishListPageを統合
 */

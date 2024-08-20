@@ -3,7 +3,7 @@
  *@discription 購入履歴を取得する
  *
  *@since 2024-07-02
- *@author 下地涼太
+ *@author S.R
  */
 
 const { Order } = require('../../../models');

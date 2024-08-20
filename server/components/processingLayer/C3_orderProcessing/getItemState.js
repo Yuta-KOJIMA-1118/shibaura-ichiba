@@ -18,7 +18,7 @@ const { registOrder } = require('../../informationManagementLayer/C8_orderInfoMa
  *                            orderId - 注文ID
  * 
  * @since 2024-06-15
- * @author 須藤綾太
+ * @author S.A
  * 
  * @modified 2024-07-02 須藤綾太 - responseでメッセージを返すのではなくtrueかfalseを返すようにした
  * @modified 2024-07-08 須藤綾太 - studentIdをテスト用のマジックナンバーからItemPageから取得するようにした

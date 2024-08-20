@@ -3,7 +3,7 @@
 * @description チャットのUI処理を行う．商品購入ページへの遷移可能，商品購入キャンセルも行うことができる
 *
 * @since 2024-06-10
-* @author 中川撫々子
+* @author N.N
 */
 
 <template>

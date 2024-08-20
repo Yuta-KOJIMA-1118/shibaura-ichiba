@@ -21,12 +21,7 @@ import UploadPage from '@/views/UploadPage.vue';
  * 
  * @since 2024-06-10
  * @author 小島佑太
- * 
- * @version 1.0
- * 
- * @since 2024-06-16
- * @author 岡本泉里
- * 
+
  * @version 1.0
  */
 

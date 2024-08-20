@@ -9,7 +9,7 @@ const { Order } = require('../../../models');
  * @return {int} orderId - 注文Id
  * 
  * @since 2024-06-15
- * @author 須藤 綾太
+ * @author S.A
  * 
  * @modified 2024-07-15 須藤綾太 orderIdを返すように変更
  */

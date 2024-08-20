@@ -3,7 +3,7 @@
 * @description 出品中の商品を表示するコンポーネントです。
 *
 * @since 2024-06-30
-* @author 下地涼太
+* @author S.R
 *
 * @modified 2024-07-15 小島佑太 - ActiveListingとPastListingを統合
 */

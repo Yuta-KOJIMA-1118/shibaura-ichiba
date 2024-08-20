@@ -3,7 +3,7 @@
  *@discription 出品中の商品を取得する
  *
  *@since 2024-07-02
- *@author 下地涼太
+ *@author S.R
  */
 
 const { Stock } = require('../../../models');

@@ -2,7 +2,7 @@
 * @description chatPage受け取ったチャット情報をデータベースに登録(C10を経由），データベースからチャット情報取得を行いchatPageに返す
 * 
 * @since 2024-06-10
-* @author 中川撫々子
+* @author N.N
 */
 
 const express = require('express');

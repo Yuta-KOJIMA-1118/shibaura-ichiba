@@ -3,7 +3,7 @@
 * @description 購入希望リストを表示するコンポーネントです。
 *
 * @since 2024-06-28
-* @author 下地涼太
+* @author S.R
 */
 <template>
   <div>

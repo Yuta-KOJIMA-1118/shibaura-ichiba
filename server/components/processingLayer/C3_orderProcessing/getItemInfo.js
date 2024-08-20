@@ -14,7 +14,7 @@ const { Order } = require('../../../models');
  * @param {array} response - 商品画面に必要な情報が入った配列
  * 
  * @since 2024-06-15
- * @author 須藤綾太
+ * @author S.A
  * 
  * @modified 2024-07-13 須藤綾太 responseにpicturePath,stockNameを追加
  * @modified 2024-07-14 須藤綾太 responseにStudentテーブルから出品者の名前:nameを追加

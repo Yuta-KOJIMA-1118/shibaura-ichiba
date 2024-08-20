@@ -7,7 +7,7 @@ const { Stock } = require('../../../models');
  * @param {int} stockId - 在庫ID 
  * 
  * @since 2024-06-15
- * @author 須藤綾太
+ * @author S.A
  */
 
 async function registOrder( stockId ) {

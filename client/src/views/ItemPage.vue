@@ -3,15 +3,15 @@
 * @description アイテムページコンポーネント，このコンポーネントは，商品の詳細が表示される。
 *
 * @since 2024-06-15
-* @author 須藤綾太
+* @author S.R
 *
-* @modified 2024-07-08 須藤綾太 dataにstudentIdを追加。getItemState関数のparamにstudentIdを追加
-* @modified 2024-07-09 須藤綾太 chatPageにstockId,studentIdを送る 
-* @modified 2024-07-10 須藤綾太 画面遷移とデータの送信を行うgoBack,goToMyPage関数を作成
+* @modified 2024-07-08 S.R dataにstudentIdを追加。getItemState関数のparamにstudentIdを追加
+* @modified 2024-07-09 S.R chatPageにstockId,studentIdを送る 
+* @modified 2024-07-10 S.R 画面遷移とデータの送信を行うgoBack,goToMyPage関数を作成
 *                              dataにpreviousPage(どこからItemPageに遷移してきたのか)追加
 *                              createdにpreviousPage取得を追加
-* @modified 2024-07-13 須藤綾太 画面遷移を学校サーバようにURL変更
-* @modified 2024-07-15 須藤綾太 orderIdを取得、chatPageに送る処理追加
+* @modified 2024-07-13 S.R 画面遷移を学校サーバようにURL変更
+* @modified 2024-07-15 S.R orderIdを取得、chatPageに送る処理追加
 *                              chatPageの戻るボタンが削除されたのでchatPageへのpushからpreviousPage削除
 *                              必要ないstockIdも削除
 *                              購入希望ボタンを表示するか,どのメッセージを表示するかの条件分岐処理追加

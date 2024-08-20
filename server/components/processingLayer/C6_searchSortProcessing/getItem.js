@@ -3,6 +3,8 @@ var router = express.Router();
 const getItems = require('../../informationManagementLayer/C9_inventoryInfoManagement/getItems')
 const { Stock, Textbook } = require('../../../models');
 
+//@author 小島佑太
+
 router.get('/textbooks', async function(req, res, next) {
   try {
     const textbooks = await Textbook.findAll();
