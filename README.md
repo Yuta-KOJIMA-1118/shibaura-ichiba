@@ -90,7 +90,7 @@ components : 各コンポーネントを制御するjsファイルが含まれ�
 ### public
 [GitHub scomb-shibaura-ichiba](https://github.com/Yuta-KOJIMA-1118/scomb-shibaura-ichiba.git)  
 [GitHub textbook_scraping](https://github.com/Yuta-KOJIMA-1118/textbook-scraping)
-### private
+### private（芝浦ドメインのみ閲覧可能）
 [notion](https://www.notion.so/_root-page-9418dfa95bca453dabec127c4508da76?pvs=4) 
 [googleDrive_要求仕様書](https://drive.google.com/drive/folders/1ZWvDJBzTcUa21DfyPxEyPraTMfR09C7q?usp=drive_link)  
 [googleDrive_外部設計書](https://drive.google.com/drive/folders/1O8eMgV0bmtwfKMiYWlpc1mTvH6Agm0xm?usp=drive_link)  
