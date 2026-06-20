@@ -53,7 +53,7 @@ Chrome拡張機能（時間割取得）：https://github.com/Yuta-KOJIMA-1118/sc
 ### 実装を主担当した機能
 
 - 時間割に基づく購入教科書のサジェスト機能
-- 時間割取得用Chrome拡張（[Scomb-Shibaura-Ichiba]((https://github.com/Yuta-KOJIMA-1118/scomb-shibaura-ichiba.git))）
+- 時間割取得用Chrome拡張（[Scomb-Shibaura-Ichiba](https://github.com/Yuta-KOJIMA-1118/scomb-shibaura-ichiba.git)）
 - 教科書情報取得用Chrome拡張（[textbook-scraping](https://github.com/Yuta-KOJIMA-1118/textbook-scraping)）
 
 ### 課題と対応
