@@ -106,15 +106,6 @@ Chrome拡張機能（時間割取得）：https://github.com/Yuta-KOJIMA-1118/sc
 
 ## 外部リンク
 
-### public
-- [GitHub: shibaura-ichiba](https://github.com/Yuta-KOJIMA-1118/shibaura-ichiba)
+### 関連リポジトリ
 - [GitHub: scomb-shibaura-ichiba](https://github.com/Yuta-KOJIMA-1118/scomb-shibaura-ichiba.git)
 - [GitHub: textbook_scraping](https://github.com/Yuta-KOJIMA-1118/textbook-scraping)
-
-### private（芝浦ドメインのみ閲覧可能）
-- [Notion](https://www.notion.so/_root-page-9418dfa95bca453dabec127c4508da76?pvs=4)
-- [要求仕様書（Google Drive）](https://drive.google.com/drive/folders/1ZWvDJBzTcUa21DfyPxEyPraTMfR09C7q?usp=drive_link)
-- [外部設計書（Google Drive）](https://drive.google.com/drive/folders/1O8eMgV0bmtwfKMiYWlpc1mTvH6Agm0xm?usp=drive_link)
-- [内部仕様書（Google Drive）](https://drive.google.com/drive/folders/1-c5IZqpbHbGpLCM_CnZuUVkFjutWIb5U?usp=drive_link)
-- [JavaScriptコーディング規約](https://drive.google.com/file/d/1flc5jVdeJqt1_O_RykmHa2w67FHrKh-W/view?usp=drive_link)
-- [進捗報告](https://docs.google.com/spreadsheets/d/1iX0WWPveVi4395yHKzVXOoMFv1Qvxd5QNM16ZAoD0to/edit?usp=drive_link)
