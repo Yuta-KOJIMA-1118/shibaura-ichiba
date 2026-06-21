@@ -5,7 +5,7 @@
 小島が技術リーダとして開発を主導した。小島が作成した部分はファイルの表題コメントに明記してある。
 
 小島が作成した以下の2点は別リポジトリで管理している。  
-Chrome拡張機能（時間割取得）：https://github.com/Yuta-KOJIMA-1118/scomb-shibaura-ichiba  
+教科書推薦機能のための時間割取得用Chrome拡張機能：https://github.com/Yuta-KOJIMA-1118/scomb-shibaura-ichiba  
 教科書情報取得用Chrome拡張機能：https://github.com/Yuta-KOJIMA-1118/textbook-scraping
 
 ---
